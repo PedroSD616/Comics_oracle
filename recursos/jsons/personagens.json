@@ -1,0 +1,99 @@
+{
+    "personagens": [
+        {
+            "_id": 1,
+            "mundo": {
+                "nome": "Marvel",
+                "avatar": "recursos/imagens/marvel.jpeg"
+            },
+            "likes": 0,
+            "personagem": {
+                "nome": "Demolidor",
+                "descricao": "O defensor cego de Hells Kitchen, um atrevido advogado durante o dia e um diabólico vigilante durante a noite.",
+                "imagem": "recursos/imagens/demolidor.png"
+            },
+            "melhoresLeituras": [
+                {
+                    "titulo": "Demolidor por Frank Miller e Klaus Janson Vol 1 ao 3",
+                    "imagem": "recursos/imagens/demolidor_frankMiller.png"
+                },
+                {
+                    "titulo": "Demolidor: O Homem Sem Medo",
+                    "imagem": "recursos/imagens/homem_sem_medo.png"
+                },
+                {
+                    "titulo": "Demolidor: A Queda de Murdock",
+                    "imagem": "recursos/imagens/queda_murdock.png"
+                },
+                {
+                    "titulo": "Demolidor: Um Dia Frio no Inferno",
+                    "imagem": "recursos/imagens/frio_inferno.png"
+                }
+            ]
+        },
+
+        {
+            "_id": 2,
+            "mundo": {
+                "nome": "Marvel",
+                "avatar": "recursos/imagens/marvel.jpeg"
+            },
+            "likes": 0,
+            "personagem": {
+                "nome": "Homem-Aranha (Peter Parker)",
+                "descricao": "Mordido por uma aranha radioativa, o antes franzino e fraco Peter Parker se torna o poderoso e confiante Homem-Aranha e protege a cidade de Nova York enquanto tenta equilibrar sua vida civil e seus deveres heróicos, pois com grandes poderes, vêm grandes responsabilidades!",
+                "imagem": "recursos/imagens/homem_aranha.png"
+            },
+            "melhoresLeituras": [
+                {
+                    "titulo": "Homem-Aranha: Homem-Aranha Nunca Mais!",
+                    "imagem": "recursos/imagens/homem_aranha_nunca_mais.png"
+                },
+                {
+                    "titulo": "Homem-Aranha: A Última Caçada de Kraven",
+                    "imagem": "recursos/imagens/ultima_cacada.png"
+                },
+                {
+                    "titulo": "O Espetacular Homem-Aranha: De Volta ao Lar",
+                    "imagem": "recursos/imagens/de_volta_ao_lar.png"
+                },
+                {
+                    "titulo": "Ultimate Homem-Aranha (2000)",
+                    "imagem": "recursos/imagens/ultimate_homem_aranha.png"
+                }
+            ]
+        },
+
+        {
+            "_id": 3,
+            "mundo": {
+                "nome": "DC Comics",
+                "avatar": "recursos/imagens/dc.png"
+            },
+            "likes": 0,
+            "personagem": {
+                "nome": "Lanterna Verde (Hal Jordan)",
+                "descricao": "Ao encontrar uma nave acidentada de um alienígena, o piloto de testes Hal Jordan foi escolhido pelo anel da Tropa dos Lanternas Verdes, uma das armas mais poderosas do universo que pertence à uma organização de policiais espaciais que regem a paz na galáxia, e assim Hal se torna o defensor do setor 2814 e o primeiro Lanterna Verde da Terra!",
+                "imagem": "recursos/imagens/lanterna_verde.png"
+            },
+            "melhoresLeituras": [
+                {
+                    "titulo": "Lanterna Verde: Renascimento",
+                    "imagem": "recursos/imagens/lanterna_renascimento.png"
+                },
+                {
+                    "titulo": "Lanterna Verde e Arqueiro Verde",
+                    "imagem": "recursos/imagens/lanterna_arqueiro.png"
+                },
+                {
+                    "titulo": "Lanterna Verde: Origem Secreta",
+                    "imagem": "recursos/imagens/lanterna_origem.png"
+                },
+                {
+                    "titulo": "Lanterna Verde: A Noite Mais Densa",
+                    "imagem": "recursos/imagens/lanterna_noite.png"
+                }
+            ]
+        }
+    ]
+}
