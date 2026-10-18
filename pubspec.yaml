@@ -1,0 +1,46 @@
+name: comics_oracle_app
+description: "A new Flutter project."
+publish_to: 'none' 
+
+version: 1.0.0+1
+
+environment:
+  sdk: ^3.13.5
+
+dependencies:
+  flutter:
+    sdk: flutter
+  
+  cupertino_icons: ^1.0.8
+  page_view_dot_indicator: ^2.3.0
+  provider: ^6.0.0
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+ 
+  flutter_lints: ^6.0.0
+
+flutter:
+  uses-material-design: true
+
+  assets:
+    - recursos/jsons/personagens.json
+    - recursos/jsons/comentarios.json
+    - recursos/imagens/marvel.jpeg
+    - recursos/imagens/demolidor.png
+    - recursos/imagens/demolidor_frankMiller.png
+    - recursos/imagens/homem_sem_medo.png
+    - recursos/imagens/queda_murdock.png
+    - recursos/imagens/frio_inferno.png
+    - recursos/imagens/homem_aranha.png
+    - recursos/imagens/de_volta_ao_lar.png
+    - recursos/imagens/ultima_cacada.png
+    - recursos/imagens/ultimate_homem_aranha.png
+    - recursos/imagens/homem_aranha_nunca_mais.png
+    - recursos/imagens/dc.png
+    - recursos/imagens/lanterna_renascimento.png     
+    - recursos/imagens/lanterna_arqueiro.png     
+    - recursos/imagens/lanterna_origem.png
+    - recursos/imagens/lanterna_noite.png
+    - recursos/imagens/lanterna_verde.png

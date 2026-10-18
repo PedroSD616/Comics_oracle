@@ -1,0 +1,24 @@
+{
+    "comentarios": [
+        {
+            "_id": 1,
+            "feed": 1,
+            "usuario": {
+                "usuarioId": 1,
+                "email": "@",
+                "nome": "comics oracle"
+            },
+            "content": "Adoro esse personagem!"
+        },
+        {
+            "_id": 2,
+            "feed": 2,
+            "usuario": {
+                "usuarioId": 2,
+                "email": "@",
+                "nome": "Spidey_fan01"
+            },
+            "content": "Tem as melhores as histórias!"
+        }
+    ]
+}
